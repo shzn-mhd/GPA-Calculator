@@ -1,0 +1,30 @@
+D:\C#\C# Application\App\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+D:\C#\C# Application\App\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+D:\C#\C# Application\App\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.AssemblyReference.cache
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Calculate.resources
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Form1.resources
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Properties.Resources.resources
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.GenerateResource.cache
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CoreCompileInputs.cache
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Final_Report.resources
+D:\C#\C# Application\App\GPACalculator\GPACalculator\obj\Debug\GPACalculator.About_Us.resources
+C:\Users\Lapstore.lk\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.AssemblyReference.cache
+C:\Users\Lapstore.lk\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+C:\Users\Lapstore.lk\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.exe
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.pdb
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe.config
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\bin\Debug\GPACalculator.exe
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\bin\Debug\GPACalculator.pdb
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.About_Us.resources
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Calculate.resources
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Final_Report.resources
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Form1.resources
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.Properties.Resources.resources
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.GenerateResource.cache
+C:\Users\user\Desktop\GPACalculator\GPACalculator\GPACalculator\obj\Debug\GPACalculator.csproj.CoreCompileInputs.cache
